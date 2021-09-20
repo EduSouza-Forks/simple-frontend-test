@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/challenge_rocketbank-Edu_Souza/static/css/main.afd7172b.chunk.css",
-    "main.js": "/challenge_rocketbank-Edu_Souza/static/js/main.a1465f4c.chunk.js",
-    "main.js.map": "/challenge_rocketbank-Edu_Souza/static/js/main.a1465f4c.chunk.js.map",
-    "runtime-main.js": "/challenge_rocketbank-Edu_Souza/static/js/runtime-main.28b06441.js",
-    "runtime-main.js.map": "/challenge_rocketbank-Edu_Souza/static/js/runtime-main.28b06441.js.map",
-    "static/js/2.23a7624f.chunk.js": "/challenge_rocketbank-Edu_Souza/static/js/2.23a7624f.chunk.js",
-    "static/js/2.23a7624f.chunk.js.map": "/challenge_rocketbank-Edu_Souza/static/js/2.23a7624f.chunk.js.map",
-    "static/js/3.0e8a7d30.chunk.js": "/challenge_rocketbank-Edu_Souza/static/js/3.0e8a7d30.chunk.js",
-    "static/js/3.0e8a7d30.chunk.js.map": "/challenge_rocketbank-Edu_Souza/static/js/3.0e8a7d30.chunk.js.map",
-    "index.html": "/challenge_rocketbank-Edu_Souza/index.html",
-    "static/css/main.afd7172b.chunk.css.map": "/challenge_rocketbank-Edu_Souza/static/css/main.afd7172b.chunk.css.map",
-    "static/js/2.23a7624f.chunk.js.LICENSE.txt": "/challenge_rocketbank-Edu_Souza/static/js/2.23a7624f.chunk.js.LICENSE.txt"
+    "main.css": "/simple-frontend-test/static/css/main.afd7172b.chunk.css",
+    "main.js": "/simple-frontend-test/static/js/main.b17203e9.chunk.js",
+    "main.js.map": "/simple-frontend-test/static/js/main.b17203e9.chunk.js.map",
+    "runtime-main.js": "/simple-frontend-test/static/js/runtime-main.bcdf3931.js",
+    "runtime-main.js.map": "/simple-frontend-test/static/js/runtime-main.bcdf3931.js.map",
+    "static/js/2.f7391694.chunk.js": "/simple-frontend-test/static/js/2.f7391694.chunk.js",
+    "static/js/2.f7391694.chunk.js.map": "/simple-frontend-test/static/js/2.f7391694.chunk.js.map",
+    "static/js/3.0e8a7d30.chunk.js": "/simple-frontend-test/static/js/3.0e8a7d30.chunk.js",
+    "static/js/3.0e8a7d30.chunk.js.map": "/simple-frontend-test/static/js/3.0e8a7d30.chunk.js.map",
+    "index.html": "/simple-frontend-test/index.html",
+    "static/css/main.afd7172b.chunk.css.map": "/simple-frontend-test/static/css/main.afd7172b.chunk.css.map",
+    "static/js/2.f7391694.chunk.js.LICENSE.txt": "/simple-frontend-test/static/js/2.f7391694.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.28b06441.js",
-    "static/js/2.23a7624f.chunk.js",
+    "static/js/runtime-main.bcdf3931.js",
+    "static/js/2.f7391694.chunk.js",
     "static/css/main.afd7172b.chunk.css",
-    "static/js/main.a1465f4c.chunk.js"
+    "static/js/main.b17203e9.chunk.js"
   ]
 }
